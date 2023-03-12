@@ -1,0 +1,28 @@
+h1{
+    font-size: medium;
+    text-align : right;
+}
+hr{
+    border:3px double green
+}
+nav a{
+    margin-left: 16px ;
+    text-decoration: none;
+    margin-top: -18px;
+}
+button{
+    font-weight: bold;
+}
+h2{
+    text-align:left;
+    font-size: bold;
+}
+p{
+    text-align: left;
+}
+.main{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
